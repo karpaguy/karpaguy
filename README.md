@@ -1,8 +1,9 @@
+• <img align="left" alt="Brazil-Flag" height="30" width="40" src="https://cdn.discordapp.com/attachments/656566395936571423/975555995449294938/1f1e7-1f1f7.png"> Perfil em Português-Brasileiro!
 
 Salve! Eu sou Douglas Denuzzi e este é meu perfil do Github.
 
 - 🔭 Atualmente estou atrás de um estágio na área de Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estudando Python, Data Science e Machine Learning.
+- 🌱 Atualmente estou estudando Python e Soquetes de Rede, além de outras tecnologias.
 - 👯 Atualmente estou atrás de colaborar em projetos tolerantes a iniciantes na área da programação.
 - 💬 Me pergunta sobre qualquer coisa envolvendo hardware e muito provavelmente saberei te responder.
 - 📫 Contate-me no email denuzzidouglas@gmail.com

@@ -1,4 +1,4 @@
-• <img align="left" alt="Brazil-Flag" height="10" width="10" src="https://cdn.discordapp.com/attachments/656566395936571423/975555995449294938/1f1e7-1f1f7.png"> Perfil em Português-Brasileiro!
+• <img align="left" alt="Brazil-Flag" height="30" width="10" src="https://cdn.discordapp.com/attachments/656566395936571423/975555995449294938/1f1e7-1f1f7.png"> Perfil em Português-Brasileiro!
 
 Salve! Eu sou Douglas Denuzzi e este é meu perfil do Github.
 

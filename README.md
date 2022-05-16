@@ -8,7 +8,7 @@ Salve! Eu sou Douglas Denuzzi e este é meu perfil do Github.
 - 👯 Atualmente estou atrás de colaborar em projetos tolerantes a iniciantes na área da programação.
 - 💬 Me pergunta sobre qualquer coisa envolvendo hardware e muito provavelmente saberei te responder.
 - 📫 Contate-me no email denuzzidouglas@gmail.com
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: Ele/Dele.
 
 </div align="center">
 <div style="display: inline_block"><br>

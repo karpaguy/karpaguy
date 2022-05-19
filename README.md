@@ -32,7 +32,7 @@ Hello! I am Douglas Denuzzi and this is my Github profile.
 Most of things here will have their README write in English or Portuguese-Brazilian.
 
 - 🔭 I am currently looking for an internship in the Systems Development area.
-- 🌱 I am currently studying Python and Network Sockets,  estudando Python e Soquetes de Rede, in addition to other technologies, like cybersecurity.
+- 🌱 I am currently studying Python and Network Sockets, in addition to other technologies, like cybersecurity.
 - 👯 I am currently looking to work in my own project of creating a chat application for me and my friends.
 - 💬 Ask me anything about hardware and I will do my best to give you a good answer!
 - 📫 Contact me in denuzzidouglas@gmail.com

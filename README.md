@@ -1,5 +1,3 @@
-<h4>Tecnologias/Technologys</h4>
-
 <h1> -- EM REFORMA! -- </h1>
 
 <div>

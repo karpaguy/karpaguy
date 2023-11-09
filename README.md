@@ -3,11 +3,11 @@
 <br></br>
 → 🌱 I'm a Brazilian Developer, working with IT before I can jump into the world of development full-time.
 <br></br>
-• 🤔 I’m looking for help with: **Front-end development**
+• 🤔 I’m looking for help with: <strong>Front-end development</strong>
 <br></br>
-• 📫 How to reach me: **denuzzidouglas@gmail.com**
+• 📫 How to reach me: <strong>denuzzidouglas@gmail.com</strong>
 <br></br>
-• 📄 Know about my experiences: **linkedin.link**
+• 📄 Know about my experiences: linkedin.link
 
 <h3 align="left">⭐ Connect with me:</h3>
 <h3 align="left">⭐ Languages and Tools:</h3>

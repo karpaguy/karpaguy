@@ -1,29 +1,69 @@
+<h2 align="center">Hello 👋, I'm Douglas</h2>
 
+###
 
-<h1 align="center"> Hi 👋, I'm Douglas </h1>
-<h3 align="center"> A Growing Front-end Developer </h3>
-<br></br>
-→ 🌱 I'm a Brazilian Developer, working with IT before I can jump into the world of development full-time.
-<br></br>
-• 🤔 I’m looking for help with: <strong>Front-end development</strong>
-<br></br>
-• 📫 How to reach me: <strong>denuzzidouglas@gmail.com</strong>
-<br></br>
-• 📄 Know about my experiences: linkedin.link
+<h6 align="center">A Growing Brazilian Developer</h6>
 
-<h3 align="left">⭐ Connect with me:</h3>
-<h3 align="left">⭐ Languages and Tools:</h3>
-<br></br>
-<h3 align="left">⭐ How my Learning Progress is Going </h3>
-img.png (odin project)
-img.png (href roadmap)
+###
 
+<h4 align="left">ABOUT ME (⚡)<br>__________________________________</h4>
 
-profileCard
+###
 
-<div>
-  <a href = "mailto:denuzzidouglas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </a> 
-  <a href="https://www.linkedin.com/in/douglasdenuzzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="left">→ 🌱 I'm a Brazilian learning Full Stack Development, while I work as IT Support.<br>→ 🍄 Looking for help with Front-End Development.<br>→ 🌻 Also looking for people to learn JS together.</p>
+
+###
+
+<h4 align="left">LEARNING PROGRESS (📖)<br>__________________________________</h4>
+
+###
+
+<p align="left">💻 (FRONTEND) →https://roadmap.sh/frontend?s=6494755cd99c9d67318ddd58<br>💿 (JS) → https://roadmap.sh/javascript?s=6494755cd99c9d67318ddd58<br>🔨 (Odin Project) → https://github.com/karpaguy/OdinProjects-Learning</p>
+
+###
+
+<h4 align="left">TECHNOLOGIES (⚙️)<br>__________________________________</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+###
+
+<h4 align="left">__________________________________</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karpaguy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karpaguy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=karpaguy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/douglasdenuzzi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="sp4mdouglas@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+
+Made with Profile Readme Generator from maurodesouza! Go check it out!

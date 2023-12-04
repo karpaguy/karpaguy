@@ -66,4 +66,4 @@
 ###
 
 
-Made with Profile Readme Generator from maurodesouza! Go check it out!
+Made with Profile Readme Generator, you can find it on Github. Go check it out!

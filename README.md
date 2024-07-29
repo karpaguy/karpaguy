@@ -20,7 +20,7 @@
 
 <p align="left">💻 (FRONTEND) →https://roadmap.sh/frontend?s=6494755cd99c9d67318ddd58<br>💿 (JS) → https://roadmap.sh/javascript?s=6494755cd99c9d67318ddd58<br>🔨 (Odin Project) → https://github.com/karpaguy/OdinProjects-Learning</p>
 
-DISCLAIMER: Most of my codes and notes from learning are public, but don't expect anything fancy.
+DISCLAIMER: Most of my code studies and notes are public, but don't expect anything fancy.
 
 ###
 
